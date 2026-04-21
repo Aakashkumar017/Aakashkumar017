@@ -1,18 +1,107 @@
-# 💫 About Me:
-I’m a B.Tech Computer Science (Data Science) student with a strong interest in Machine Learning, Data Analysis, and Generative AI. I enjoy working with data, building intelligent systems, and solving real-world problems using technology.<br><br>Currently, I am focused on:<br><br> Data Science using Python, Pandas, and SQL<br>Machine Learning fundamentals and model building<br> Exploring Generative AI and RAG (Retrieval-Augmented Generation) systems<br> Learning cloud tools and scalable AI solutions<br><br>I have hands-on experience building projects like:<br><br>PDF Q&A + Summarization system (RAG-based)<br> Data analysis and visualization projects<br> Automation scripts and API-based application
+<h1 align="center">Aakash Kumar</h1>
+<h3 align="center">Data Science | Machine Learning | Generative AI</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aakash-kumar-78ba57294) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashsahh2@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Aakashkumar017&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Aakashkumar017&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aakashkumar017&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+Building intelligent systems using data, machine learning, and AI
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Aakashkumar017&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I am a B.Tech Computer Science (Data Science) student focused on building real-world solutions using data-driven approaches, machine learning, and generative AI.
+
+- Strong foundation in data analysis using Python, Pandas, and SQL  
+- Experience in machine learning model development  
+- Exploring generative AI and retrieval-augmented generation (RAG) systems  
+- Learning scalable AI systems and backend integration  
+
+---
+
+## Tech Stack
+
+**Languages and Data:**  
+Python, SQL, Pandas, NumPy  
+
+**Machine Learning:**  
+Scikit-learn, Model Building, Feature Engineering  
+
+**AI and Generative AI:**  
+LLMs, RAG, LangChain, Prompt Engineering  
+
+**Backend and Tools:**  
+FastAPI, Git, GitHub  
+
+**Databases:**  
+MySQL, PostgreSQL  
+
+---
+
+## Projects
+
+### RAG-based PDF Question Answering System
+- Built a system for PDF-based question answering and summarization  
+- Uses LLMs with vector search for context-aware responses  
+- Technologies: Python, LangChain, FAISS, LLM APIs  
+
+### Data Analysis and Visualization
+- Performed data cleaning, transformation, and exploratory data analysis  
+- Generated insights using real-world datasets  
+- Technologies: Pandas, Matplotlib, Seaborn  
+
+### Automation and API Development
+- Developed automation scripts for repetitive tasks  
+- Built REST APIs using FastAPI  
+- Integrated external APIs for practical applications  
+
+---
+
+## Coding Profiles
+
+<p align="center">
+<a href="https://www.hackerrank.com/profile/akashsahh2">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+<a href="https://www.geeksforgeeks.org/profile/akashs6gzt">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## Achievements
+
+- HackerRank SQL Silver Badge  
+- HackerRank Python 2-Star Badge  
+- Active problem solver in SQL, Python, and data-related challenges  
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=Aakashkumar017&theme=dark&hide_border=true" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=Aakashkumar017&theme=dark&hide_border=true" />
+<br/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aakashkumar017&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+<a href="https://www.linkedin.com/in/aakash-kumar-78ba57294">
+<img src="https://img.shields.io/badge/LinkedIn-Aakash%20Kumar-blue?logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:akashsahh2@gmail.com">
+<img src="https://img.shields.io/badge/Email-akashsahh2@gmail.com-red?logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## Focus
+
+Data → Insight → Model → Scalable AI System
